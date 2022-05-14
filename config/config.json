@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "douglasn_sdl",
+    "password": "uyGPqVERU9CJ29z",
+    "database": "douglasn_smart_door_lock",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "fiah920907",
+    "database": "smart-lock-door",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "douglasn_sdl",
+    "password": "uyGPqVERU9CJ29z",
+    "database": "douglasn_smart_door_lock",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
