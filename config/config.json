@@ -14,10 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
+    "use_env_variable": "DATABASE_URL",
     "username": "douglasn_sdl",
     "password": "uyGPqVERU9CJ29z",
     "database": "douglasn_smart_door_lock",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
