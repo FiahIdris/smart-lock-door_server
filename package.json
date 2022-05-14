@@ -25,5 +25,8 @@
     "sequelize": "^6.19.0",
     "sequelize-cli": "^6.4.1",
     "sq": "^0.0.1"
+  },
+  "engines": {
+    "node": "14.16.1"
   }
 }
